@@ -1,1 +1,1 @@
-# sentimentAnalysis_amazonn
+# Amazon Fine Foods - Sentiment analysis
