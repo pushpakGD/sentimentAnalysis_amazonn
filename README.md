@@ -6,6 +6,9 @@
 A quick check to see the number of times a score occurs before seeing the results of each model.
 
 
+
+
+
 ## Two main techniques:
 
 ### VADER (Valence Aware Dictionary and Sentiment Reasoner) - Bag of Words approach
@@ -32,6 +35,8 @@ Results:
 - Model trained on a large corpus of data
 - This model not only accounts for a single word but also the context related to other words
 
-### Comapring Models and reveiwing examples:
+### Comparing Models and reveiwing examples:
+
+
 
 
