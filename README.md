@@ -1,7 +1,7 @@
 # Amazon Food Review- Sentiment analysis
 
 - A mini project on Natural Language Processing by doing sentiment analysis on Amazon Food Reviews.
-- Utilized Python NLP tool called NLTK, and implemented a complex model called Roberta and Huggingface pipeline.
+- Utilized Python NLP tool called NLTK, and implemented a complex  model called Roberta and Huggingface pipeline.
 
 A quick check to see the number of times a score occurs before seeing the results of each model.
 
