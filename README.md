@@ -73,5 +73,7 @@ From the pairplot we can see, VADER model is less confident in all of its predic
 - positive review but a negative sentiment (kind of funny)
 - both models got confused with that review, however the models performed well as its a negative sentiment but with a positive review.
 
+  ##### Dataset from Kaggle: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
 
 
